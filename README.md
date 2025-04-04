@@ -18,13 +18,7 @@
 <body>
   <header>
     <div class="logo">Prudhommesvente</div>
-    <nav>
-      <a href="#">Accueil</a>
-      <a href="#">Produits</a>
-      <a href="#">Avis</a>
-      <a href="#">À Propos</a>
-      <a href="#">Contact</a>
-    </nav>
+    
   </header>
 
   <section class="hero">
@@ -47,6 +41,13 @@
   </section>
 
   <footer>
+    <nav>
+      <a href="#">Accueil</a>
+      <a href="#">Produits</a>
+      <a href="#">Avis</a>
+      <a href="#">À Propos</a>
+      <a href="#">Contact</a>
+    </nav>
     <form action="mailto:borismbytha@gmail.com" method="post" enctype="text/plain">
     <p>&copy; 2025 Prudhommesvente. Tous droits réservés.</p>
   </footer>
